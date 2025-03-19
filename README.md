@@ -51,7 +51,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandaniaina-tsinjo-nantosoa-b6209a330/?msgControlName=view_message_button&msgConversationId=2-ODUzY2VhMTgtNzhlNS00Y2ZmLWI5NjctMmI1MGY5ODg2YjY3XzAxMw%3D%3D&msgOverlay=true)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/TsinjoNantosoa)
 
 ---
